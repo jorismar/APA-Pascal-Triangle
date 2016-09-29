@@ -1,6 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+'''
+
+This test uses the algorithm available on the 
+site http://www.geeksforgeeks.org/dynamic-programming-set-9-binomial-coefficient/ based, 
+and runs a series of tests comparing the results returned by the based algorithm and the algorithm implemented.
+
+'''
+
 import PascalTriangle
 
 MAX_TERM = 100
